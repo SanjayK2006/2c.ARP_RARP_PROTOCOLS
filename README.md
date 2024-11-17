@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+### Name: Sanjay K
+### Reg No: 212223220094
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
